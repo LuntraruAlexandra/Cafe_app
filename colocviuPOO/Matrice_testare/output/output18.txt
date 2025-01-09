@@ -1,0 +1,54 @@
+
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: 
+Choose a city:
+1. Brasov
+2. Bucuresti
+3. Cluj-Napoca
+4. Iasi
+5. Timisoara
+Enter your choice (1-5): No event today: [1;35m
+=== Notifications ===
+[0m- Barista gap: 2:00 - 7:00
+- Waiter gap: 4:00 - 17:00
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: Event name:
+Event date (DD/MM/YYYY): without zero in front!!!
+Enter event date (DD/MM/YYYY):
+Enter description:
+Translate the description in Romanian:
+Enter cost of event:
+Enter special products in the format: name;quantity[unit];price/unit (type 'done' to finish):
+Product name:
+Translate product name in Romanian
+Product name:
+Translate product name in Romanian
+Product name:
+Translate product name in Romanian
+Product name:
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: 
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: Exiting...
