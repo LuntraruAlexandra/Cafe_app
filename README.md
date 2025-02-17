@@ -101,23 +101,6 @@ If no folder is specified, the default "Data" folder is used.
 
 - Customers can place event-related orders
 
-## File Structure
-
-├── Data/
-│   ├── București/
-│   │   ├── employees.csv
-│   │   ├── products.csv
-│   │   ├── orders.csv
-│   │   ├── recipes.csv
-│   │   ├── report.csv
-│   │   ├── events.csv
-│   ├── Cluj-Napoca/
-│   ├── ... (Other cities)
-│
-├── app.cpp
-├── translate.txt
-├── README.md
-
 ## Future Enhancements
 
 - Add a graphical user interface (GUI)
