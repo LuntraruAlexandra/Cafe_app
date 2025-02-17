@@ -1,0 +1,52 @@
+
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: 
+Choose a city:
+1. Brasov
+2. Bucuresti
+3. Cluj-Napoca
+4. Iasi
+5. Timisoara
+Enter your choice (1-5): Select your lang / Selectati limba:
+1. English
+2. Romana
+Enter your choice: 
+Meniul clientului:
+1. Verifica meniul
+2. Plaseaza comanda
+3. Evenimentul zilei
+4. Comanda produs special din eveniment
+0. Inapoi la meniul principal
+Introduceti optiunea: Nume eveniment: Art and coffee night
+Description: Join us for a cozy night of art and coffee
+Cost: 3000
+Produse: 
+- cheesecake cu zmeura: 20 pcs, preț: 20
+- selectie de ceai: 30 pcs, preț: 6
+- tarta cu lamaie: 8 pcs, preț: 20
+
+Meniul clientului:
+1. Verifica meniul
+2. Plaseaza comanda
+3. Evenimentul zilei
+4. Comanda produs special din eveniment
+0. Inapoi la meniul principal
+Introduceti optiunea: Care este numele tau?
+Introduceti produse speciale din eveniment: cand terminati, scrieti 'done'
+Hei, Maria! Comanda ta din cadrul evenimentului este de: 26
+
+Meniul clientului:
+1. Verifica meniul
+2. Plaseaza comanda
+3. Evenimentul zilei
+4. Comanda produs special din eveniment
+0. Inapoi la meniul principal
+Introduceti optiunea: 
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: Exiting...

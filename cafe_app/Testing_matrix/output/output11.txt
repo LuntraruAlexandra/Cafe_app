@@ -1,0 +1,64 @@
+
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: 
+Choose a city:
+1. Brasov
+2. Bucuresti
+3. Cluj-Napoca
+4. Iasi
+5. Timisoara
+Enter your choice (1-5): No event today: Select your lang / Selectati limba:
+1. English
+2. Romana
+Enter your choice: 
+Customer Menu:
+1. Check Menu
+2. Place Order
+3. Today's event
+4. Order special product from event
+0. Back to Main Menu
+Enter your choice: Enter your name: Enter your order (type 'done' to finish):
+Item: Item: Item: Item: Item: Item: Item: Item: Item: Item: Item: Item: Waiter Julie took your order: cupcake, cupcake, cupcake, cupcake, cupcake, cupcake, cupcake, cupcake, cupcake, cupcake, Frappe, 
+Barista Kiki took your order!
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Hi, Andrei!Here is your: cupcake⸜(｡˃ ᵕ ˂ )⸝♡
+Price: 9.67
+Sorry, product out of stock!
+Price: -2
+Sorry, product out of stock!
+Price: -2
+Hi, Andrei!Here is your: Frappe(∗´ര ᎑ ര`∗)
+Price: 23.5
+================
+Total price:
+96.86
+================
+
+Customer Menu:
+1. Check Menu
+2. Place Order
+3. Today's event
+4. Order special product from event
+0. Back to Main Menu
+Enter your choice: 
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: Exiting...

@@ -1,0 +1,59 @@
+
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: 
+Choose a city:
+1. Brasov
+2. Bucuresti
+3. Cluj-Napoca
+4. Iasi
+5. Timisoara
+Enter your choice (1-5): No event today: [1;35m
+=== Notifications ===
+[0m- Barista gap: 8:00 - 10:00
+- Waiter gap: 6:00 - 8:00
+- Low stock for product: milk (0.899999[l]) in Cluj-Napoca
+- Low stock for product: kiwi (0.5[kg]) in Cluj-Napoca
+- Low stock for product: strawberries (1[kg]) in Cluj-Napoca
+- Low stock for product: red food dye (0.088000[l]) in Cluj-Napoca
+- Low stock for product: cupcake (0.000000[pcs]) in Cluj-Napoca
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: 
+1. Display Products
+2. Add Product
+3.Refill supply
+0. Exit
+Choose an option: Refill supply:
+Product name:
+How much would you like to add? Quantity: Please enter a valid format! (ex: 20[pcs], 10[l], 15[kg])
+
+1. Display Products
+2. Add Product
+3.Refill supply
+0. Exit
+Choose an option: Exiting program...
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: 
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: Exiting...

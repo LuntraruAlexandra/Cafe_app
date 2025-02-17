@@ -1,0 +1,67 @@
+
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: 
+Choose a city:
+1. Brasov
+2. Bucuresti
+3. Cluj-Napoca
+4. Iasi
+5. Timisoara
+Enter your choice (1-5): No event today: [1;35m
+=== Notifications ===
+[0m- Barista gap: 3:00 - 18:00
+- Waiter gap: 4:00 - 19:00
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: 
+1. Display Employees
+2. Delete Employee
+3. Add Employee
+0. Exit
+Choose an option: Enter employee name: Enter employee role: Enter start hour: Enter end hour: Salary: 
+1. Display Employees
+2. Delete Employee
+3. Add Employee
+0. Exit
+Choose an option: Enter employee name: Enter employee role: Enter start hour: Enter end hour: Salary: 
+1. Display Employees
+2. Delete Employee
+3. Add Employee
+0. Exit
+Choose an option: Employees from București cafe!
+Name,Role,Starting hour,Ending hour,Salary
+Johnny,waiter,19,4,2000,
+Marianne,barista,18,3,2100,
+Helene,barista,18,2,2300,
+Mario,waiter,21,4,2500,
+
+1. Display Employees
+2. Delete Employee
+3. Add Employee
+0. Exit
+Choose an option: Exiting program...
+
+Manager Menu:
+1. Manage Employees
+2. Handle Products
+3. Add New Recipes
+4. Change Product Quantity
+5. Handle Event
+6. Generate Report
+7. Back to Main Menu
+Enter your choice: 
+Main Menu:
+1. Customer
+2. Manager
+3. Exit
+Enter your choice: Exiting...
